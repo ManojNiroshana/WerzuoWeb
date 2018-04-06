@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3930357-a23b-457d-8692-b7aedae66150" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rubik/assets/img/faces/Untitled.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rubik/assets/img/faces/face_7.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="102" column="54" lean-forward="false" selection-start-line="102" selection-start-column="54" selection-end-line="102" selection-end-column="54" />
+            <state relative-caret-position="497">
+              <caret line="414" column="42" lean-forward="false" selection-start-line="414" selection-start-column="42" selection-end-line="414" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -101,6 +103,14 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="werzuoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="werzuoweb" type="462c0819:PsiDirectoryNode" />
+              <item name="rubik" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="faces" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,12 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522996099400</updated>
-      <workItem from="1522996101704" duration="1286000" />
+      <workItem from="1522996101704" duration="1789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1286000" />
+    <option name="totallyTimeSpent" value="1789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -188,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="102" column="54" lean-forward="false" selection-start-line="102" selection-start-column="54" selection-end-line="102" selection-end-column="54" />
+        <state relative-caret-position="497">
+          <caret line="414" column="42" lean-forward="false" selection-start-line="414" selection-start-column="42" selection-end-line="414" selection-end-column="42" />
           <folding />
         </state>
       </provider>
